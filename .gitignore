@@ -1,0 +1,13 @@
+# === Backend (Python) ===
+backend/env/
+__pycache__/
+*.py[cod]
+*.env
+
+# === Frontend (Next.js / Node.js) ===
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+
+# === General ===
+.DS_Store
