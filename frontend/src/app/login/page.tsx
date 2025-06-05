@@ -61,13 +61,14 @@ const Login = () => {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-4">
       <>
         <div className="flex flex-col justify-center items-center">
-          <Image
-  src="/volunteer/assets/logo.png"
+         <Image
+  src={CombineLogo}
   alt="Combine Foundation Logo"
   height={160}
   width={160}
   className="h-24 w-24 sm:h-32 sm:w-32 md:h-40 md:w-40"
 />
+
 
           <h1 className="text-3xl font-bold text-black">Welcome to Combine Foundation</h1>
         </div>
