@@ -61,7 +61,7 @@ const Login = () => {
       <>
         <div className="flex flex-col justify-center items-center">
           <Image
-            src="/logo.png"
+            src="/images/logo 1.png"
             alt="Combine Foundation Logo"
             height={160}
             width={160}
