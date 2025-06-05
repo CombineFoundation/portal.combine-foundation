@@ -12,6 +12,10 @@
   --font-mono: var(--font-geist-mono);
 }
 
+h1{
+  color="Black"
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #f4f6f6;
